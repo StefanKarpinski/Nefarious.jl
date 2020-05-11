@@ -1,2 +1,6 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[JSON]]
+path = "vendor/JSON"
+uuid = "976bc2ab-e352-4e1b-90ff-fe19bada0106"
+version = "0.1.0"

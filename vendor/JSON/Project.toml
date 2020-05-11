@@ -1,0 +1,7 @@
+name = "JSON"
+uuid = "976bc2ab-e352-4e1b-90ff-fe19bada0106"
+authors = ["Stefan Karpinski <stefan@karpinski.org>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
