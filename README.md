@@ -5,7 +5,8 @@ Package demonstrating why `julia --project` in a directory you don't trust can b
 Try it out (if you dare!):
 
 ```sh
-$ cd Nefarious
+$ git clone https://github.com/StefanKarpinski/Nefarious.jl.git
+$ cd Nefarious.jl
 $ julia -q --project
 julia> using JSON
 Haha, gotcha!
